@@ -28,14 +28,14 @@ THE SOFTWARE.
     <groupId>org.eclipse.hudson.plugins</groupId>
     <artifactId>hudson-plugin-parent</artifactId>
     <version>3.0.0</version>
-  <relativePath/>
+  <relativePath />
   </parent>
 
   <groupId>org.hudsonci.plugins</groupId>
   <artifactId>clone-workspace-scm</artifactId>
   <packaging>hpi</packaging>
   <name>Hudson Clone Workspace SCM Plug-in</name>
-  <version>0.5-h-1-SNAPSHOT</version>
+  <version>0.5-h-1</version>
   <url>http://wiki.hudson-ci.org/display/HUDSON/Clone+Workspace+SCM+Plugin</url>
   <description>Plugin to archive workspaces from one project and reuse those as SCM sources for other projects.</description>
   
